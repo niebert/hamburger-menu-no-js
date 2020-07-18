@@ -427,8 +427,8 @@ that the close icon is visible only when the menu is visible.
 ## Demo - Menu Editor
 
 * [See this example](https://niebert.github.io/hamburger-menu-no-js) in action.
-* comare with the alterative [Hamburger Menu](https://niebert.github.io/hamburger-menu-no-js)
-* create your own [Hamburger Menu for a WebApp]((https://niebert.github.io/JSONEditor4Menu)
+* compare with the alterative [Hamburger Menu](https://niebert.github.io/hamburger-menu-no-js)
+* create your own [Hamburger Menu for a WebApp](https://niehausbert.gitlab.io/jsoneditor4menu/)
 
 ## Acknowledgements
 
