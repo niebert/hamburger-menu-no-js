@@ -5,6 +5,9 @@ solution developed using only HTML 5 and CSS 3. It has been tested on a
 wide variety of browsers, including mobile browsers, and found to be
 working satisfactorily well.
 
+## Demo
+[View Demo](https://niebert.github.io/hamburger-menu-no-js) to see what this repository is about.
+
 ## The need
 
 An application I worked on had a nested menu that could have any number
