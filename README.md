@@ -6,7 +6,10 @@ wide variety of browsers, including mobile browsers, and found to be
 working satisfactorily well.
 
 ## Demo
-[View Demo](https://niebert.github.io/hamburger-menu-no-js) to see what this repository is about.
+* [View Demo](https://niebert.github.io/hamburger-menu-no-js) to see what this repository is about.
+* compare with the alterative [Hamburger Menu](https://niebert.github.io/hamburger_menu_app) - see also [GitHub-repository](https://www.github.com/niebert/hamburger_menu_app)
+* create your own [Hamburger Menu for a WebApp](https://niehausbert.gitlab.io/jsoneditor4menu/)
+
 
 ## Javscript Menu Editor
 If you prefer to create a complete AppLSAC with a Hamburger Menu (just like this example), you can try 
