@@ -8,6 +8,9 @@ working satisfactorily well.
 ## Demo
 [View Demo](https://niebert.github.io/hamburger-menu-no-js) to see what this repository is about.
 
+## Javscript Menu Editor
+If you prefer to create a complete AppLSAC with a Hamburger Menu (just like this example), you can try 
+
 ## The need
 
 An application I worked on had a nested menu that could have any number
@@ -421,10 +424,11 @@ is that where the hamburger icons has three bars, the close icon has
 only two, arranged as a cross (X). The last three lines simply ensure
 that the close icon is visible only when the menu is visible.
 
-## Demo
+## Demo - Menu Editor
 
-[See this](http://htmlpreview.github.com/?https://github.com/manish-in-java/hamburger-menu/blob/master/menu.html)
-in action.
+* [See this example](https://niebert.github.io/hamburger-menu-no-js) in action.
+* comare with the alterative [Hamburger Menu](https://niebert.github.io/hamburger-menu-no-js)
+* create your own [Hamburger Menu for a WebApp]((https://niebert.github.io/JSONEditor4Menu)
 
 ## Acknowledgements
 
